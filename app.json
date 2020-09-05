@@ -1,0 +1,8 @@
+{
+    "name": "Geelise",
+    "description": "A nodejs app",
+    "repository": "https://github.com/DorcasBlutty/geelise.git",
+    "logo":"",
+    "keywords": ["node","heroku"],
+    "image": "heroku/nodejs"
+}
